@@ -1,0 +1,2 @@
+wins=23
+losses=48
